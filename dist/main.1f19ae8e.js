@@ -148,7 +148,7 @@ var step = function step() {
       n += 1;
       step();
     }
-  }, 0);
+  }, 50);
 };
 
 step();
